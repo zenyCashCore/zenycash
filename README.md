@@ -1,48 +1,47 @@
-BitZeny Core integration/staging tree
+ZenyCash Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/BitzenyCoreDevelopers/bitzeny.svg?branch=z2.0.x)](https://travis-ci.org/BitzenyCoreDevelopers/bitzeny)
 
 original site
 ----------------
-http://BitZeny.org
+https://Zeny.Cash
 
 New Developer Team
 ----------------
-https://github.com/BitzenyCoreDevelopers/
+https://github.com/zenyCashPro/
 
 Discussion forum
 ----------------
-https://bitzeny.info
+https://zeny.cash
 
-What is BitZeny?
+What is ZenyCash?
 ----------------
 
-BitZeny is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. BitZeny uses peer-to-peer technology to operate
+ZenyCash is an experimental digital currency that enables instant payments to
+anyone, anywhere in the world. ZenyCash uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network. BitZeny Core is the name of open source
+out collectively by the network. ZenyCash Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the BitZeny Core software, see https://github.com/BitzenyCoreDevelopers/bitzeny/releases.
+the ZenyCash Core software, see https://github.com/ZenyCashCore/ZenyCash/releases.
 
 License
 -------
 
-BitZeny Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+ZenyCash Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/BitzenyCoreDevelopers/bitzeny/tags) are created
-regularly to indicate new official, stable release versions of BitZeny Core.
+completely stable. [Tags](https://github.com/ZenyCashCore/zenyCash/tags) are created
+regularly to indicate new official, stable release versions of ZenyCash Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-The developer [Discussion forum](https://bitzeny.info)
+The developer [Discussion forum](https://zeny.cash)
 should be used to discuss complicated or controversial changes before working
 on a patch set.
 
